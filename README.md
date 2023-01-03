@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ehsan310/ehsan310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi There :wave:!
+
+My name is Ehsan and I'm a Cloud Engineer at [IKEA](https://ikea.com) and living in Sweden.
+
+<ul role="list" style="display:flex;gap:1rem">
+<li class="css-0"><a href="https://ehsan.pw/">CV</a></li>
+<li><a  href="https://mentorcruise.com/mentor/ehsangolpayegani/">Mentorship</a></li>
+</ul>
+I'm interested in SRE, Cloud, GCP, Software Engineering, and Serverless.
+
+Passionate about Cloud Engineering, IaC and Automation.
+
+My personal hobbies include going for long walks, music, movies, book reading, and a set of activities such as Badminton and Tenis. I do also like video games specially the platforming genre. My favourite video game is Last of Us.
+
+You can actively find me on [Twitter](https://twitter.com/ehsan310). Come say Hi!
