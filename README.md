@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi There :wave:!
 
-My name is Ehsan and I'm a Senior Infrustructure Engineer at [Telavox](https://telavox.com) and living in Sweden.
+My name is Ehsan and I'm a Senior System Engineer at [Telavox](https://telavox.com) and living in Sweden.
 
 <ul role="list" style="display:flex;gap:1rem">
 <li class="css-0"><a href="https://ehsan.pw/">CV</a></li>
